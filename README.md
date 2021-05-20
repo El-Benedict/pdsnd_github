@@ -25,8 +25,8 @@ The Files You will need the three city dataset files: • chicago.csv • new_yo
 
 
 ### Files used
-Include the files used
+No files used 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+No links added
+No references
